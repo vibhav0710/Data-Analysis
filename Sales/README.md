@@ -26,6 +26,9 @@ The finished Sales Management Dashboard consists of three pages:
 - Power BI
 - Microsoft SQL Server
 
+Dashboard Link:
+[Sales Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWYwYmNlMzUtMzJjZS00NjJkLWIwYWQtYzA4ZWFkM2JkNjc3IiwidCI6Ijk3MDc4Mzg4LTdhNTctNGJlZS05YTljLTljOTA1MTNkNGY3OCJ9)
+
 Feel free to explore the project and provide any feedback or suggestions. 
 
 Thank you!
