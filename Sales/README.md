@@ -12,9 +12,7 @@ The following tables were extracted and cleaned using SQL:
 Additionally, sales budget data provided in Excel format was connected to the data model.
 
 ## Data Modeling
-Data modeling was performed in Power BI, where the tables were divided into two categories: 
-1. **Dimension Tables**
-2. **Fact Tables**
+The data was then modeled in Power BI using a star schema approach. The tables were divided into two main categories: dimension tables and fact tables. All dimension tables were connected with the fact tables to create a comprehensive data model.
 
 ## Dashboard Overview
 The finished Sales Management Dashboard consists of three pages:
